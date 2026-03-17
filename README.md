@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/peasy-video.svg)](https://rubygems.org/gems/peasy-video)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-video-rb/stars.svg)](https://github.com/peasytools/peasy-video-rb)
 
 Ruby client for the [PeasyVideo](https://peasyvideo.com) API — calculate resolution, estimate bitrate, and analyze frame rates for video files. Zero dependencies beyond Ruby stdlib (Net::HTTP, JSON, URI).
 
