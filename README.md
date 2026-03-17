@@ -103,10 +103,10 @@ OpenAPI 3.1.0 spec: [peasyvideo.com/api/openapi.json](https://peasyvideo.com/api
 
 ## Learn More
 
-- **Tools**: [Video Trim](https://peasyvideo.com/tools/video-trim/) · [Video to GIF](https://peasyvideo.com/tools/video-to-gif/) · [All Tools](https://peasyvideo.com/)
-- **Guides**: [How to Trim Videos](https://peasyvideo.com/guides/how-to-trim-videos/) · [All Guides](https://peasyvideo.com/guides/)
-- **Glossary**: [What is MP4?](https://peasyvideo.com/glossary/mp4/) · [All Terms](https://peasyvideo.com/glossary/)
-- **Formats**: [WebM](https://peasyvideo.com/formats/webm/) · [All Formats](https://peasyvideo.com/formats/)
+- **Tools**: [Video Resolution Calculator](https://peasyvideo.com/video/video-resolution/) · [Video Bitrate Calculator](https://peasyvideo.com/video/video-bitrate/) · [Video Framerate Converter](https://peasyvideo.com/video/video-framerate/) · [All Tools](https://peasyvideo.com/)
+- **Guides**: [Video Codecs Explained](https://peasyvideo.com/guides/video-codecs-explained/) · [Video Compression for Web](https://peasyvideo.com/guides/video-compression-web-delivery/) · [All Guides](https://peasyvideo.com/guides/)
+- **Glossary**: [AV1](https://peasyvideo.com/glossary/av1/) · [Frame Rate](https://peasyvideo.com/glossary/frame-rate/) · [Color Grading](https://peasyvideo.com/glossary/color-grading/) · [All Terms](https://peasyvideo.com/glossary/)
+- **Formats**: [MP4](https://peasyvideo.com/formats/mp4/) · [WebM](https://peasyvideo.com/formats/webm/) · [All Formats](https://peasyvideo.com/formats/)
 - **API**: [REST API Docs](https://peasyvideo.com/developers/) · [OpenAPI Spec](https://peasyvideo.com/api/openapi.json)
 
 ## Also Available
