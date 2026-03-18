@@ -11,7 +11,7 @@ Built from [PeasyVideo](https://peasyvideo.com), a comprehensive video processin
 > **Try the interactive tools at [peasyvideo.com](https://peasyvideo.com)** — [Video Resolution Calculator](https://peasyvideo.com/video/video-resolution/), [Video Bitrate Calculator](https://peasyvideo.com/video/video-bitrate/), [Video Framerate Converter](https://peasyvideo.com/video/video-framerate/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasy-video demo — video resolution calculation and codec analysis tools in Ruby terminal" width="800">
+  <a href="https://agentgif.com/XK85sXjG"><img src="https://media.agentgif.com/XK85sXjG.gif" alt="peasy-video demo — video resolution calculation and codec analysis tools in Ruby terminal" width="800"></a>
 </p>
 
 ## Table of Contents
